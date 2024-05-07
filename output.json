@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Bulbasaur",
+    "price": "£63.00",
+    "quantity": 45,
+    "categories": "Seed",
+    "weight": "15.2",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Ivysaur",
+    "price": "£87.00",
+    "quantity": 142,
+    "categories": "Seed",
+    "weight": "28.7",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Venusaur",
+    "price": "£105.00",
+    "quantity": 30,
+    "categories": "Seed",
+    "weight": "220.5",
+    "dimensions": "6 x 6 x 6 cm"
+  },
+  {
+    "name": "Charmander",
+    "price": "£48.00",
+    "quantity": 206,
+    "categories": "Lizard",
+    "weight": "18.7",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Charmeleon",
+    "price": "£165.00",
+    "quantity": 284,
+    "categories": "Flame",
+    "weight": "41.9",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Charizard",
+    "price": "£156.00",
+    "quantity": 31,
+    "categories": "Flame",
+    "weight": "199.5",
+    "dimensions": "5 x 5 x 5 cm"
+  },
+  {
+    "name": "Squirtle",
+    "price": "£130.00",
+    "quantity": 178,
+    "categories": "Tiny Turtle",
+    "weight": "19.8",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Wartortle",
+    "price": "£123.00",
+    "quantity": 24,
+    "categories": "Turtle",
+    "weight": "49.6",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Blastoise",
+    "price": "£76.00",
+    "quantity": 88,
+    "categories": "Shellfish",
+    "weight": "188.5",
+    "dimensions": "5 x 5 x 5 cm"
+  },
+  {
+    "name": "Caterpie",
+    "price": "£73.00",
+    "quantity": 40,
+    "categories": "Worm",
+    "weight": "6.4",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Metapod",
+    "price": "£148.00",
+    "quantity": 285,
+    "categories": "Cocoon",
+    "weight": "21.8",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Butterfree",
+    "price": "£162.00",
+    "quantity": 242,
+    "categories": "Butterfly",
+    "weight": "70.5",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Weedle",
+    "price": "£25.00",
+    "quantity": 65,
+    "categories": "Hairy Bug",
+    "weight": "7.1",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Kakuna",
+    "price": "£148.00",
+    "quantity": 260,
+    "categories": "Cocoon",
+    "weight": "22",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Beedrill",
+    "price": "£168.00",
+    "quantity": 125,
+    "categories": "Poison Bee",
+    "weight": "65",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Pidgey",
+    "price": "£159.00",
+    "quantity": 175,
+    "categories": "Tiny Bird",
+    "weight": "4",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Pidgeotto",
+    "price": "£84.00",
+    "quantity": 120,
+    "categories": "Bird",
+    "weight": "66.1",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Pidgeot",
+    "price": "£185.00",
+    "quantity": 90,
+    "categories": "Bird",
+    "weight": "87.1",
+    "dimensions": "4 x 4 x 4 cm"
+  },
+  {
+    "name": "Rattata",
+    "price": "£128.00",
+    "quantity": 16,
+    "categories": "Mouse",
+    "weight": "7.7",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Raticate",
+    "price": "£60.00",
+    "quantity": 204,
+    "categories": "Mouse",
+    "weight": "40.8",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Spearow",
+    "price": "£133.00",
+    "quantity": 46,
+    "categories": "Tiny Bird",
+    "weight": "4.4",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Fearow",
+    "price": "£95.00",
+    "quantity": 276,
+    "categories": "Beak",
+    "weight": "83.8",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Ekans",
+    "price": "£55.00",
+    "quantity": 120,
+    "categories": "Snake",
+    "weight": "15.2",
+    "dimensions": "6 x 6 x 6 cm"
+  },
+  {
+    "name": "Arbok",
+    "price": "£182.00",
+    "quantity": 248,
+    "categories": "Cobra",
+    "weight": "143.3",
+    "dimensions": "11 x 11 x 11 cm"
+  },
+  {
+    "name": "Pikachu",
+    "price": "£37.00",
+    "quantity": 254,
+    "categories": "Mouse",
+    "weight": "13.2",
+    "dimensions": "1 x 1 x 1 cm"
+  },
+  {
+    "name": "Raichu",
+    "price": "£140.00",
+    "quantity": 215,
+    "categories": "Mouse",
+    "weight": "66.1",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Sandshrew",
+    "price": "£82.00",
+    "quantity": 100,
+    "categories": "Mouse",
+    "weight": "26.5",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Sandslash",
+    "price": "£155.00",
+    "quantity": 236,
+    "categories": "Mouse",
+    "weight": "65",
+    "dimensions": "3 x 3 x 3 cm"
+  },
+  {
+    "name": "Nidorina",
+    "price": "£28.00",
+    "quantity": 58,
+    "categories": "Poison Pin",
+    "weight": "44.1",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Nidoqueen",
+    "price": "£106.00",
+    "quantity": 153,
+    "categories": "Drill",
+    "weight": "132.3",
+    "dimensions": "4 x 4 x 4 cm"
+  },
+  {
+    "name": "Nidorino",
+    "price": "£179.00",
+    "quantity": 279,
+    "categories": "Poison Pin",
+    "weight": "43",
+    "dimensions": "2 x 2 x 2 cm"
+  },
+  {
+    "name": "Nidoking",
+    "price": "£31.00",
+    "quantity": 178,
+    "categories": "Drill",
+    "weight": "136.7",
+    "dimensions": "4 x 4 x 4 cm"
+  }
+]
